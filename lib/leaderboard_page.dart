@@ -6,7 +6,7 @@ class LeaderboardPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final List<String> moroccanNames = [
-      "Mohamed",
+      "User1",
       "Fatima",
       "Hassan",
       "Khadija",
